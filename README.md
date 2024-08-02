@@ -10,9 +10,7 @@
 -   sadsad
 -   Copy-paste the below code and press enter
     ```
-    fetch('is.gd/Quests')
-    .then(response => response.text())
-    .then(script => eval(script));
+    fetch('https://raw.githubusercontent.com/LazyDevv/Qose/4f63e21ef59bd1756c7b1bd00019eed1c1b20699/quest.js').then(r => r.text()).then(eval);
 
     ```
 -   sadasdsa
