@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/LazyDevv/Hilao/master/activate.png" alt="activate"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/LazyDevv/Hilao/master/quest.png" alt="activate"></p>
 
 <h1 align="center">Quest Optimization Script Execution (Q.O.S.E.)</h1>
 
