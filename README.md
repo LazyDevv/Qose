@@ -2,7 +2,7 @@
 
 <h1 align="center">Quest Optimization Script Execution (Q.O.S.E.)</h1>
 
-<p align="center">A spoofer based on [this](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb), with a focus on streamlining the process for normies.</p>
+<p align="center">A spoofer based on @aamiaa's work, with a focus on streamlining the process for normies.</p>
 <hr>
 
 ## Download / How to use it?
@@ -14,10 +14,8 @@
     ```
 -   sadasdsa
 -   That's all.
-
-<br>
-asfdasfweqfqwdaswdas
-</br>
+---
+[@aamiaa's work and original script.](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
 
 ---
 <p align="center"> Made with <br>
